@@ -10,7 +10,13 @@ h3{
     background-color: rgba(240, 72, 170, 0.568);
     text-align: center;
 }
-
+.bolo {
+    font-size: larger;
+    border-color: rgb(180, 147, 1);
+    border-width: 20px;
+    border-style: solid;
+    border-radius: 12px 50px 2px 120px;
+}
 p {
     text-align: center;
     font-size: medium;
